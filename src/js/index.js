@@ -28,7 +28,7 @@ import {NEWS_TYPE} from '../data/index';
     function render(){
         const headerTpl = Header.tpl({
             url: '/',
-            title: '新闻头条',
+            title: '新闻头条1',
             showLeftIcon: false,
             showRightIcon: true
         });
